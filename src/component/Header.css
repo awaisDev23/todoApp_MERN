@@ -1,0 +1,25 @@
+.button_login {
+  background-color: black;
+  text-align: center;
+  border-radius: 6px;
+  color: white;
+  margin: 10px;
+}
+
+.button_login:hover {
+  background-color: rgb(231, 21, 21);
+  border-radius: 10px;
+}
+
+.button_signup {
+  background-color: black;
+  text-align: center;
+  border-radius: 6px;
+  color: inherit;
+  margin: 10px;
+}
+
+.button_signup:hover {
+  background-color: rgb(231, 21, 21);
+  border-radius: 10px;
+}
